@@ -1,5 +1,5 @@
 {
-  "name": "p1asm0",
+  "name": "plasmo",
   "private": true,
   "workspaces": [
     "cli/*",
